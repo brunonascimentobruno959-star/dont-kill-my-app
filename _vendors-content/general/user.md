@@ -1,4 +1,4 @@
----
+1248---
 manufacturer:
     - general
 ---
